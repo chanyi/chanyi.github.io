@@ -396,7 +396,7 @@
     };
 
     $.fn.typed.defaults = {
-        strings: ["These are the default values...", "You know what you should do?", "Use your own!", "Have a great day!"],
+        strings: ["这里是默认值", "你知道你该做什么吗？", "使用自己的!", "Have a great day!"],
         stringsElement: null,
         // typing speed
         typeSpeed: 0,
